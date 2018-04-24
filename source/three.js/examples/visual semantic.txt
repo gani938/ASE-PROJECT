@@ -1,9 +1,0 @@
-1.domian class diagram
-2.collaboration or communication diagram
-3.deployment
-4.component
-5.Activity
-6.state chart
-7.sequence
-8.class diagram 
-9.usecase
